@@ -1,0 +1,20 @@
+Name,Age,Gender,City,Salary
+John,30,Male,LA,50000
+Alex,25,Female,San Fran,60000
+Bob,,Male,LA,55000
+Mary,32,,Chicago,
+Alex,28,Female,,52000
+,,,Chicago,45000
+Tim,29,Male,LA,
+,31,,,48000
+Alice,27,Female,Boston,52000
+Sam,,,Miami,42000
+navi,35,Male,Miami,49000
+Sarah,33,Female,,51000
+roja,,Female,new york,54000
+Mike,26,Male,Houston,47000
+Olivia,24,Female,,
+,28,Seattle,Houston,52000
+maya,,Male,Houston,49000
+Zoe,30,Female,Dallas,51000
+,29,,Dallas,49000
