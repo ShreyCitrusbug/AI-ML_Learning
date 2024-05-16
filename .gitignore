@@ -137,3 +137,6 @@ dmypy.json
 media/
 
 # MNIST file  
+
+pt_save_pretrained/
+tf_save_pretrained/
