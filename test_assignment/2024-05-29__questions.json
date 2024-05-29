@@ -1,0 +1,2406 @@
+[
+    {
+        "question": "Are you  of Hispanic, Latino/a, or Spanish origin?",
+        "options": [
+            "A. No, not of Hispanic, Latino/a, or Spanish origin",
+            "B. Yes, Mexican, Mexican American, Chicano/a",
+            "C. Yes, Puerto Rican",
+            "D. Yes, Cuban",
+            "E. Yes, Another Hispanic, Latino, or Spanish origin",
+            "X. Patient unable to respond"
+        ]
+    },
+    {
+        "question": "A1010. Race",
+        "options": []
+    },
+    {
+        "question": "What is your race?",
+        "options": [
+            "A. White",
+            "B. Black or African American",
+            "C. American Indian or Alaska Native",
+            "D. Asian Indian",
+            "E. Chinese",
+            "F. Filipino",
+            "G. Japanese",
+            "H. Korean",
+            "I. Vietnamese",
+            "J. Other Asian",
+            "K. Native Hawaiian",
+            "L. Guamanian or Chamorro",
+            "M. Samoan",
+            "N. Other Pacific Islander",
+            "X. Patient unable to respond"
+        ]
+    },
+    {
+        "question": "M0150. Current Payment Sources for Home Care",
+        "options": [
+            "0. None; no charge for current services",
+            "1. Medicare (traditional fee -for-service)",
+            "2. Medicare (HMO/managed care/Advantage plan)",
+            "3. Medicaid (traditional fee-for-service)",
+            "4. Medicaid (HMO/managed care)",
+            "5. Workers' compensation",
+            "6. Title programs (for example, Title III, V, or XX)",
+            "7. Other government (for example, TriCare, VA)",
+            "8. Private insurance",
+            "9. Private HMO/managed care",
+            "10. Self-pay",
+            "11. Other (specify)",
+            "UK. Unknown"
+        ]
+    },
+    {
+        "question": "B0200. Hearing",
+        "options": []
+    },
+    {
+        "question": "Ability to hear (with hearing aid or hearing appliances if normally used)",
+        "options": [
+            "0. Adequate \u2013 no difficulty in normal conversation, social interaction, listening to TV",
+            "1. Minimal difficulty \u2013 difficulty in some environments (e.g., when person speaks softly,  or setting is noisy)",
+            "2. Moderate difficulty \u2013 speaker has to increase volume and speak distinctly",
+            "3.     Highly impaired \u2013 absence of useful hearing",
+            "0. Adequate \u2013 sees fine detail, such as regular print in newspapers/books",
+            "1. Impaired \u2013 sees large print, but not regular print in newspapers/books",
+            "2. Moderate impaired \u2013 limited vision; not able to see newspaper headlines but can identify objects",
+            "3. Highly impaired \u2013 object identification in question, but eyes appear to follow objects",
+            "4. Severely impaired \u2013 no vision or sees only light, colors or shapes; eyes do not appear to follow objects"
+        ]
+    },
+    {
+        "question": "A1110. Language",
+        "options": [
+            "B. D"
+        ]
+    },
+    {
+        "question": "o you need or want an interpreter to communicate with a doctor or health care staff?",
+        "options": [
+            "0. No",
+            "1. Yes",
+            "9.Unable to determine"
+        ]
+    },
+    {
+        "question": "M0030. Start of Care Date",
+        "options": []
+    },
+    {
+        "question": "M0032. Resumption of Care Date",
+        "options": []
+    },
+    {
+        "question": "M0080. Discipline of Person Completing Assessment",
+        "options": [
+            "2. PT",
+            "3. SLP/ST",
+            "4. OT"
+        ]
+    },
+    {
+        "question": "M0090. Date Assessment Completed",
+        "options": []
+    },
+    {
+        "question": "M0100. This Assessment is Currently Being Completed for the Following Reason",
+        "options": [
+            "1.Start of care \u2013  further visits planned",
+            "3.Resumption of care  (after inpatient stay)"
+        ]
+    },
+    {
+        "question": "Follow -Up",
+        "options": [
+            "4.Recertification (follow -up) reassessment",
+            "5.Other follow -up"
+        ]
+    },
+    {
+        "question": "Transfer to an Inpatient Facility",
+        "options": [
+            "6.Transferred to an inpatient facility \u2013  patient not discharged from agency",
+            "7.Transferred to an inpatient facility \u2013  patient discharged from agency"
+        ]
+    },
+    {
+        "question": "Discharge from Agency \u2013 Not to an Inpati ent Facility",
+        "options": [
+            "8.Death at home",
+            "9.Discharge from agency"
+        ]
+    },
+    {
+        "question": "M0906. Discharge/Transfer/Death Date",
+        "options": []
+    },
+    {
+        "question": "Enter the date of the discharge, transfer, or death (at home) of the patient.",
+        "options": []
+    },
+    {
+        "question": "If the physician indicated a specific start of care (resumption of care) date when the patient was referred for home health",
+        "options": []
+    },
+    {
+        "question": "M0104. Date of Referral",
+        "options": []
+    },
+    {
+        "question": "Indicate the date that the written or verbal referral for initiation or resumption of care was received by the HHA.",
+        "options": []
+    },
+    {
+        "question": "M0110. Episode Timing",
+        "options": []
+    },
+    {
+        "question": "Is the Medicare home health payment episode for which this assessment will define a case mix group an \u201cearly\u201d episode or a",
+        "options": []
+    },
+    {
+        "question": "\u201clater\u201d episode in the patient\u2019s current sequence of adjacent Medicare home health payment episodes?",
+        "options": [
+            "2. Later"
+        ]
+    },
+    {
+        "question": "UK Unknown",
+        "options": []
+    },
+    {
+        "question": "NA Not Applicable:  No Medicare case mix group to be defined by this assessment.",
+        "options": []
+    },
+    {
+        "question": "A1250. Transportation",
+        "options": []
+    },
+    {
+        "question": "Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living?",
+        "options": [
+            "A.Yes, it has kept me from medical appointments or from getting my medications",
+            "B.Yes, it has kept me from non -medical meetings, appointments, work, or from getting things that I need",
+            "C.No",
+            "X.Patient unable to respond"
+        ]
+    },
+    {
+        "question": "M1000. From which of the following  Inpatient Facilities was the patient discharged within the past 14 days?",
+        "options": [
+            "1.Long -term nursing facility (NF)",
+            "2.Skilled nursing facility  (SNF/TCU)",
+            "3.Short -stay acute hospital (IPPS)",
+            "4.Long -term care hospital (LTCH)",
+            "5.Inpatient rehabilitation hospital or unit (IRF)",
+            "6.Psychiatric hospital or unit",
+            "7.Other (specify)"
+        ]
+    },
+    {
+        "question": "NA Patient was not discharged from an inpatient facility \u2192 Skip to B 1300, Health Literacy",
+        "options": []
+    },
+    {
+        "question": "M1005. Inpatient Discharge Date  (most recent)",
+        "options": []
+    },
+    {
+        "question": "At the time of or at any time since the most recent SOC/ROC assessment has the patient utilized a hospital emergency",
+        "options": []
+    },
+    {
+        "question": "department (includes holding/observation status)?",
+        "options": [
+            "0. No \u2192 Skip to M2410, Inpatient Facility",
+            "1. Yes, used hospital emergency department WITHOUT hospital admission",
+            "2. Yes, used hospital emergency department WITH hospital admission"
+        ]
+    },
+    {
+        "question": "UK Unknown  \u2192 Skip to M2410, Inpatient Facility",
+        "options": []
+    },
+    {
+        "question": "M2310. Reason for Emergent Care",
+        "options": []
+    },
+    {
+        "question": "For what reason(s) did the patient seek and/or receive emergent care (with or without hospitalization)?",
+        "options": [
+            "1. Improper medication administration, adverse drug reactions, medication side effects, toxicity, anaphylaxis",
+            "10. Hypo/Hyperglycemia, diabetes out of control",
+            "19. Other than above reasons"
+        ]
+    },
+    {
+        "question": "UK Reason unknown",
+        "options": []
+    },
+    {
+        "question": "M2410. To which  Inpatient Facility has the patient been admitted?",
+        "options": [
+            "1. Hospital",
+            "2. Rehabilitation facility",
+            "3. Nursing home",
+            "4. Hospice"
+        ]
+    },
+    {
+        "question": "NA No inpatient facility admission [Omit \u201cNA\u201d option on TRN]",
+        "options": []
+    },
+    {
+        "question": "M2420. Discharge Disposition",
+        "options": []
+    },
+    {
+        "question": "Where is the patient after discharge from your agency? (Choose only one answer.)",
+        "options": [
+            "1. Patient remained in the community (without formal assistive services) \u2192 Skip to A2123, Provision of Current Reconciled"
+        ]
+    },
+    {
+        "question": "Medication List to Patient at Discharge",
+        "options": [
+            "2. Patient remained in the community (with formal assistive services)  \u2192 Continue to A2121, Provision of Current"
+        ]
+    },
+    {
+        "question": "Reconciled Medication List to Subsequent Provider at Discharge",
+        "options": [
+            "3. Patient transferred to a non -institutional hospice \u2192 Continue to A2121, Provision of Current Reconciled Medic ation List",
+            "4. Unknown because patient moved to a geographic location not served by this agency \u2192 Skip to A2123, Provision of"
+        ]
+    },
+    {
+        "question": "Current Reconciled Medication List to Patient at Discharge",
+        "options": [
+            "5. UK Other unknown  \u2192 Skip to A2123, Provi sion of Current Reconciled Medication List to Patient at Discharge"
+        ]
+    },
+    {
+        "question": "A2121. Provision of Current Reconciled Medication List to Subsequent Provider at Discharge",
+        "options": []
+    },
+    {
+        "question": "At the time of discharge to another provider, did your agency  provide the patient\u2019s current reconciled medication list to the",
+        "options": []
+    },
+    {
+        "question": "subsequent provider?",
+        "options": [
+            "0. No \u2013 Current reconciled medication list not provided to the subsequent provider \u2192 Skip to A2123, Provision of Current"
+        ]
+    },
+    {
+        "question": "Reconciled Medication List to Patient at Discharge",
+        "options": [
+            "1. Yes \u2013 Current reconciled medication list provided to the subsequent provider \u2192 Continue to A2122, Route of Current"
+        ]
+    },
+    {
+        "question": "Reconciled Medication List Transmission to Subsequent Provider",
+        "options": []
+    },
+    {
+        "question": "A2120. Provision of Current Reconciled Medication List to Subsequent Provider at Transfer",
+        "options": []
+    },
+    {
+        "question": "At the time of transfer to another provider, did your agency provide the patient\u2019s current reconciled medication list to the",
+        "options": []
+    },
+    {
+        "question": "subsequent provider ?",
+        "options": [
+            "0. No\u2013 Current reconciled medication list not  provided to the subsequent provider  \u2192 Skip to J1800, Any Falls Since"
+        ]
+    },
+    {
+        "question": "SOC/ROC",
+        "options": [
+            "1.     Yes \u2013 Current reconciled medication list provided to the subsequent provider \u2192 Continue to A2122, Route of Current"
+        ]
+    },
+    {
+        "question": "Reconciled  Medication List Transmission to Subsequent Provider",
+        "options": [
+            "2. NA \u2013 The agency was not made aware of this transfer timely \u2192 Skip to J1800, Any Falls Since SOC/ROC"
+        ]
+    },
+    {
+        "question": "At the time of discharge, did your facility provide the patient\u2019s current reconciled medication list to the patient, family and/or",
+        "options": []
+    },
+    {
+        "question": "caregiver?",
+        "options": []
+    },
+    {
+        "question": "Literacy",
+        "options": [
+            "1. Yes \u2013 Current reconciled medication list provided to the patient, family and/or caregiver \u2192 Continue to A2124, Route of"
+        ]
+    },
+    {
+        "question": "Current R econciled Medication List Transmission  to Patie nt.",
+        "options": []
+    },
+    {
+        "question": "A212 4. Route of Current Reconciled Medication List Transmission to Patient",
+        "options": []
+    },
+    {
+        "question": "Indicate the route(s) of transmission of the current reconciled medication list to the patient/family/caregiver.",
+        "options": []
+    },
+    {
+        "question": "Route of Transmission",
+        "options": [
+            "A. Electronic Health Record",
+            "B. Health Information Exchange Organization",
+            "C. Verbal (e.g., in -person, telephone, video conferencing)",
+            "D. Paper -based (e.g., fax, copies, printouts)",
+            "E. Other Methods (e.g., texting, email, CDs)"
+        ]
+    },
+    {
+        "question": "Section B Hearing, Speech, and Vision",
+        "options": []
+    },
+    {
+        "question": "B1300. Health Literacy",
+        "options": []
+    },
+    {
+        "question": "How often do you need to have someone help you when you read instructions, pamphlets, or other written material from your",
+        "options": []
+    },
+    {
+        "question": "doctor or pharmacy?",
+        "options": [
+            "1. Rarely",
+            "2. Sometimes",
+            "3. Often",
+            "4. Always",
+            "8.Patient unable to respondA2122 Route of Current Reconciled Medication List Transmission to Subsequent Provider"
+        ]
+    },
+    {
+        "question": "Indicate the r oute(s) of transmission of the current reconciled medication list to the subsequent provider.",
+        "options": []
+    },
+    {
+        "question": "Route of Transmission",
+        "options": [
+            "A. Electronic Health Record",
+            "B. Health Information Exchange Organization",
+            "C. Verbal (e.g., in -person, telephone, video conferencing)",
+            "D. Paper -based (e.g., fax, copies, printouts)",
+            "E. Other Methods (e.g., texting, email, CDs)"
+        ]
+    },
+    {
+        "question": "The Single Item Literacy Screener is licensed under a Creative Commons Attribution-Noncommercial 4.0 International License.",
+        "options": []
+    },
+    {
+        "question": "M1700. Cognitive Functioning",
+        "options": []
+    },
+    {
+        "question": "Patient's current (day of assessment) level of alertness, orientation, comprehension, concentration, and immediate memory for",
+        "options": [
+            "0. Alert/oriented, able to focus and shift attention, comprehends and recalls task directions independently.",
+            "1. Requires prompting (cuing, repetition, reminders) only under stressful or unfamiliar conditions.",
+            "2. Requires assistance and some direction in specific situations (for example, on all task s involving shifting of attention)",
+            "3. Requires considerable assistance in routine situations. Is not alert and oriented or is unable to shift attention and",
+            "4. Totally dependent due to disturbances such as constant disorientation, coma, persistent vegetative state, or delirium."
+        ]
+    },
+    {
+        "question": "M1710. When Confused",
+        "options": []
+    },
+    {
+        "question": "Reported or observed within the last 14 days.",
+        "options": [
+            "0. Never",
+            "1. In new or complex situations only",
+            "2. On awakening or at night only",
+            "3. During the day and evening, but not constantly",
+            "4. Constantly"
+        ]
+    },
+    {
+        "question": "NA Patient nonresponsive",
+        "options": []
+    },
+    {
+        "question": "M1720. When Anxious",
+        "options": []
+    },
+    {
+        "question": "Reported or observed within the last 14 days.",
+        "options": [
+            "0. None of the time",
+            "1. Less often than daily",
+            "2. Daily, but not constantly",
+            "3. All of the time"
+        ]
+    },
+    {
+        "question": "NA Patient nonresponsive",
+        "options": []
+    },
+    {
+        "question": "C0100. Should Brief Interview for Mental Status (C0200 -C0500) be Conducted?",
+        "options": []
+    },
+    {
+        "question": "Attempt to conduct interview with all patients.",
+        "options": [
+            "0.  No (patient is rarely/never understood)  \u2192 Skip to C1310 Signs and Symptoms of Delirium (from CAM \u00a9)",
+            "1.  Yes \u2192 Continue to C0200, Repetition of Three Words"
+        ]
+    },
+    {
+        "question": "Brief Interview for Mental Status (BIMS)",
+        "options": []
+    },
+    {
+        "question": "C0200. Repetition of Three Words",
+        "options": []
+    },
+    {
+        "question": "Ask patient: \u201cI am going to say three words for you to remember. Please repeat the words after I have said all three. The",
+        "options": []
+    },
+    {
+        "question": "Number of words repeated after first attempt 0. None",
+        "options": [
+            "1. One",
+            "2. Two",
+            "3. Three"
+        ]
+    },
+    {
+        "question": "After the patient's first attempt, repeat the words using cues (\"sock, something to wear; blue, a color; bed, a piece of",
+        "options": []
+    },
+    {
+        "question": "Ask patient:  \"Please tell me what year it is right now.\"",
+        "options": [
+            "A. Able to report correct year",
+            "0. Missed by > 5 years  or no answer",
+            "1. Missed by 2 -5 years",
+            "2. Missed by 1 year",
+            "3. Correct"
+        ]
+    },
+    {
+        "question": "Ask patient:  \"What month are we in right now?\"",
+        "options": [
+            "B. Able to report correct month",
+            "0. Missed by > 1 month  or no answer",
+            "1. Missed by 6 days to 1 month",
+            "2. Accurate within 5 days"
+        ]
+    },
+    {
+        "question": "Ask patient:  \"What day of the week is today?\"",
+        "options": [
+            "C. Able to report correct day of the week",
+            "0. Incorrect  or no answer",
+            "1. Correct"
+        ]
+    },
+    {
+        "question": "C0400. Recall",
+        "options": []
+    },
+    {
+        "question": "Ask patient:  \"Let's go back to an earlier question. What were those three words that I asked you to repeat?\"",
+        "options": []
+    },
+    {
+        "question": "If unable to remember a word, give cue (something to wear; a color; a piece of furniture) for that word.",
+        "options": [
+            "A. Able to recall \u201csock\u201d",
+            "0. No \u2013 could not recall",
+            "1. Yes, after cueing  (\"something to wear\")",
+            "2. Yes, no cue required",
+            "B. Able to recall \u201cblue\u201d",
+            "0. No \u2013 could not recall",
+            "1. Yes, after cueing  (\"a color\")",
+            "2. Yes, no cue required",
+            "C. Able to recall \u201cbed\u201d",
+            "0. No \u2013 could not recall",
+            "1. Yes, after cueing  (\"a piece of furniture\")",
+            "2. Yes, no cue required"
+        ]
+    },
+    {
+        "question": "C0500. BIMS Summary Score",
+        "options": []
+    },
+    {
+        "question": "Enter Score",
+        "options": []
+    },
+    {
+        "question": "Add scores for questions C0200 -C0400 and fill in total score (00 -15)",
+        "options": []
+    },
+    {
+        "question": "Enter 99 if the patient was unable to complete the interview",
+        "options": []
+    },
+    {
+        "question": "Code after completing  Brief Interview for Mental Stat us and reviewing medical record.",
+        "options": [
+            "A. Acute Onset of Mental Status Change"
+        ]
+    },
+    {
+        "question": "Is there evidence of an acute change in mental status from the patient's baseline?",
+        "options": [
+            "0. No",
+            "1. Yes"
+        ]
+    },
+    {
+        "question": "Coding:",
+        "options": [
+            "0. Behavior not present",
+            "1. Behavior continuously present,",
+            "2. Behavior present, fluctuates",
+            "B. Inattention \u2013 Did the patient have difficulty focusing attention, for example, being"
+        ]
+    },
+    {
+        "question": "easily distractible or having difficulty keeping track of what was being said?",
+        "options": [
+            "C. Disorganized thinking \u2013 Was the patient's thinking disorganized or incoherent"
+        ]
+    },
+    {
+        "question": "unpredictable switching from subject to subject)?",
+        "options": [
+            "D. Altered level of consciousness  \u2013 Did the patient have altered level of consciousness,"
+        ]
+    },
+    {
+        "question": "as indicated by any of the following criteria?",
+        "options": []
+    },
+    {
+        "question": "Adapted from: Inouye SK, et al. Ann Intern Med. 1990; 113: 941- 948. Confusion Assessment Method. Copyright 2003, Hospital Elder Life Program, LLC. Not to be reproduced without",
+        "options": []
+    },
+    {
+        "question": "Section D  Mood",
+        "options": []
+    },
+    {
+        "question": "D0150. Patient Mood Interview (PHQ -2 to 9)",
+        "options": []
+    },
+    {
+        "question": "Say to patient: \" Over the last 2 weeks, have you been bothered by any of the following problems? \"",
+        "options": []
+    },
+    {
+        "question": "If symptom is present, enter 1 (yes) in column 1, Symptom Presence.",
+        "options": []
+    },
+    {
+        "question": "If yes in column 1, then ask the patient: \"About how often have you been bothered by this?\"",
+        "options": []
+    },
+    {
+        "question": "Read and show the patient a card with the symptom frequency choices. Indicate response in column 2, Symptom Frequency.",
+        "options": [
+            "1. Symptom Presence",
+            "0. No (enter 0 in column 2)",
+            "1. Yes (enter 0 -3 in column 2)",
+            "9. No response  (leave colum n",
+            "0. Never or 1 day",
+            "1. 2-6 days (several days)",
+            "2. 7-11 days (half or more of the days)",
+            "3. 12-14 days  (nearly every day)",
+            "1."
+        ]
+    },
+    {
+        "question": "Symptom",
+        "options": []
+    },
+    {
+        "question": "Presence  2.",
+        "options": []
+    },
+    {
+        "question": "Symptom",
+        "options": []
+    },
+    {
+        "question": "Frequency",
+        "options": [
+            "A.  Little interest or pleasure in doing things",
+            "B.  Feeling down, depressed, or hopeless"
+        ]
+    },
+    {
+        "question": "If either D150A2 or D150B2 is coded 2 or 3, CONTINUE asking the questions below. If not, END the PHQ interview .",
+        "options": [
+            "C.  Trouble falling or staying asleep, or sleeping too much",
+            "D.  Feeling tired or having little energy",
+            "E.  Poor appetite or overeating",
+            "F.  Feeling bad about yourself \u2013 or that you are a failure or have let yourself or your family down",
+            "G.  Trouble concentrating on things, such as reading the newspaper or watching television",
+            "H.  Moving or speaking so slowly that other people could have noticed. Or the opposite \u2013 being so",
+            "I.  Thoughts that you would be better off dead, or of hurting yourself in some way"
+        ]
+    },
+    {
+        "question": "Copyright \u00a9 Pfizer Inc. All rights reserved. Reproduced with permission.",
+        "options": []
+    },
+    {
+        "question": "D0160. Total Severity Score",
+        "options": []
+    },
+    {
+        "question": "Enter Score",
+        "options": []
+    },
+    {
+        "question": "Add scores for all frequency responses in Column 2 , Symptom Frequency. Total score must be between 0 2 and 27. Enter 99 if",
+        "options": []
+    },
+    {
+        "question": "How often do you feel lonely or isolated from those around you?",
+        "options": [
+            "1. Rarely",
+            "2. Sometimes",
+            "3. Often",
+            "4. Always",
+            "8.Patient unable to respond"
+        ]
+    },
+    {
+        "question": "Section E  Behavior",
+        "options": []
+    },
+    {
+        "question": "M1740. Cognitive, Behavioral, and Psychiatric Symptoms that are demonstrated at least once a week (reported or observed)",
+        "options": [
+            "1. Memory deficit: failure to recognize familiar persons/places, inability to recall events of past 24 hours,",
+            "2. Impaired decision -making: failure to perform usual ADLs or IADLs, inability to appropriately stop activities,",
+            "3. Verbal disruption: yelling, threatening, excessive profanity, sexual references, etc.",
+            "4. Physical aggression: aggressive or combative to self and others  (for example, hits self, throws objects, punches,",
+            "5. Disruptive, infantile, or socially inappropriate behavior (excludes verbal a ctions)",
+            "6. Delusional, hallucinatory, or paranoid behavior",
+            "7. None of the above behaviors demonstrated"
+        ]
+    },
+    {
+        "question": "M1745. Frequency of Disruptive Behavior Symptoms (reported or observed)",
+        "options": []
+    },
+    {
+        "question": "Any physical, verbal, or other disruptive/dangerous symptoms that are injurious to self or others or jeopardize personal safety.",
+        "options": [
+            "1. Less than once a month",
+            "2. Once a month",
+            "3. Several times each month",
+            "4. Several times a week",
+            "5. At least daily"
+        ]
+    },
+    {
+        "question": "Section F Preferences for Customary Routine Activities",
+        "options": []
+    },
+    {
+        "question": "M1100.  Patient Living Situation",
+        "options": []
+    },
+    {
+        "question": "Which of the following best describes the patient's residential circumstance and availability of assistance?",
+        "options": []
+    },
+    {
+        "question": "Living Arrangement  Availability of Assistance",
+        "options": []
+    },
+    {
+        "question": "Around the",
+        "options": []
+    },
+    {
+        "question": "Clock  Regular",
+        "options": []
+    },
+    {
+        "question": "Daytime  Regular",
+        "options": []
+    },
+    {
+        "question": "Nighttime  Occasional/",
+        "options": []
+    },
+    {
+        "question": "Short -Term",
+        "options": []
+    },
+    {
+        "question": "Assistance  No Assistance",
+        "options": []
+    },
+    {
+        "question": "Available",
+        "options": [
+            "A. Patient lives alone 01 02 03 04 05",
+            "B. Patient lives with other person(s) in the",
+            "C. Patient lives in congregate situation (for"
+        ]
+    },
+    {
+        "question": "M2102. Types and Sources of Assistance",
+        "options": []
+    },
+    {
+        "question": "Determine the ability and willingness of non -agency caregivers (such as family members, friends, or privately paid caregivers) to",
+        "options": [
+            "F. Supervision and safety (for example, due to cognitive impairment)",
+            "0. No assistance needed \u2013 patient is independent or does not have needs in this area",
+            "1. Non -agency caregiver(s) currently provide assistance",
+            "2. Non -agency caregiver(s) need training/supportive services to provide assistance",
+            "3. Non -agency caregiver(s) are not likely to provide assistance OR it is unclear if they will provide assistance",
+            "4. Assistance needed, but no non -agency caregiver(s) available"
+        ]
+    },
+    {
+        "question": "Discharge",
+        "options": []
+    },
+    {
+        "question": "M2102. Types and Sources of Assistance",
+        "options": []
+    },
+    {
+        "question": "Determine the ability and willingness of non -agency caregivers (such as family members, friends, or privately paid caregivers) to",
+        "options": [
+            "A. ADL assistance (for example, transfer/ ambulation, bathing, dressing, toileting, eating/feeding)",
+            "0. No assistance needed \u2013 patient  is independent or does not have needs in this area",
+            "1. Non -agency caregiver(s) currently provide assistance",
+            "2. Non -age ncy caregiver(s) need training/supportive services to provide assistance",
+            "3. Non -agency caregiver(s) are not likely to provide assistance OR it is unclear if they will provide assistance",
+            "4. Assistance needed, but no non -agency caregiver(s) available",
+            "C. Medication administration (for example, oral, inhaled or injectable)",
+            "0. No assistance needed \u2013 patient  is independent or does not have needs in this area",
+            "1. Non -agency caregiver(s) currently provide assistance",
+            "2. Non -age ncy caregiver(s) need training/supportive services to provide assistance",
+            "3. Non -agency caregiver(s) are not likely to provide assistance, OR it is unclear if they will provide assistance",
+            "4. Assistance needed , but no non -agency caregiver(s) available",
+            "D. Medical procedures/ treatments (for example, changing wound dressing, home exercise program)",
+            "0. No assistance needed \u2013 patient is independent or does not have needs in this area",
+            "1. Non -agency caregiver(s) currently provide assistance",
+            "2. Non -age ncy caregiver(s) need training/supportive services to provide assistance",
+            "3. Non -agency caregiver(s) are not likely to provide assistance, OR it is unclear if they will provide assistance",
+            "4. Assistance needed, but no non-agency caregiver(s) available",
+            "F. Supervision and safety (for example, due to cognitive impairment)",
+            "0. No assistance needed \u2013 patient is independent or does not have needs in this area",
+            "1. Non -agency caregiver(s) currently provide assistance",
+            "2. Non -age ncy caregiver(s) need training/supportive services to provide assistance",
+            "3. Non -agen cy caregiver(s) are not likely to provide assistance, OR it is unclear if they will provide assistance",
+            "4. Assistance needed , but no non -agency caregiver(s) available"
+        ]
+    },
+    {
+        "question": "Section G  Functional Status",
+        "options": []
+    },
+    {
+        "question": "M1800. Grooming",
+        "options": []
+    },
+    {
+        "question": "Current ability to tend safely to personal hygiene needs (specifically: washing face and hands, hair care, shaving or make up, teeth",
+        "options": [
+            "0. Able to groom self unaided, with or without the use of assistive devices or adapted methods.",
+            "1. Grooming utensils must be placed within reach before able to complete grooming activities.",
+            "2. Someone must assist the patient to groom self.",
+            "3. Patient depends entirely upon someone else for grooming needs.",
+            "0. Able to get clothes out of closets and drawers, put them on and remove them from the upper body without",
+            "1. Able to dress upper body without assistance if clothing is laid out or handed to the patient.",
+            "2. Someone must help the patient put on upper body clothing.",
+            "3. Patient depends entirely up on another person to dress the upper body."
+        ]
+    },
+    {
+        "question": "M1820. Current Ability to Dress Lower  Body safely (with or without dressing aids) including undergarments, slacks, socks or",
+        "options": [
+            "0. Able to obtain, put on, and remove clothing and shoes without assistance.",
+            "1. Able to dress lower body without assistance if clothing and shoes are laid out or handed to the patient.",
+            "2. Someone must help the patient put on undergarments, slacks, socks or nylons, and shoes.",
+            "3. Patient depends entirely upon another  person to dress lower body."
+        ]
+    },
+    {
+        "question": "M1830. Bathing",
+        "options": []
+    },
+    {
+        "question": "Current ability to wash entire body safely. Excludes  grooming (washing face, washing hands, and shampooing hair).",
+        "options": [
+            "0. Able to bathe self in shower or tub  independently, including getting in and out of tub/shower.",
+            "1. With the use of devices, is able to bathe self in shower or tub independently, including getting in and out of the",
+            "2. Able to bathe in shower or tub with the intermittent assistance of an other person:",
+            "a. for intermittent supervision or encouragement or reminders, OR",
+            "b. to get in and out of the shower or tub, OR",
+            "c. for washing difficult to reach areas.",
+            "3. Able to participate in bathing self in shower or tub , but requires presence of another person throughout the bath for",
+            "4. Unable to use the shower or tub, but able to bathe self independently with or without the use of devices at the sink,",
+            "5. Unable to use the shower or tub, but able to participate in bathing self in bed, at the sink, in bedside chair, or on commode, with the assistance or supervision of another person.",
+            "6. Unable to participate effectively in bathin g and is bathed totally by another person."
+        ]
+    },
+    {
+        "question": "M1840. Toilet Transferring",
+        "options": []
+    },
+    {
+        "question": "Current ability to get to and from the toilet or bedside commode safely and transfer on and off toilet/commode.",
+        "options": [
+            "0. Able to get to and from the toilet and transfer independently with or without a device.",
+            "1. When reminded, assisted, or supervised by another person, able to get to and from the toilet and transfer.",
+            "2. Unable to get to and from the toilet but is able to use a bedside commode (with or without assistance).",
+            "3. Unable  to get to and from the toilet or bedside commode but is able to use a bedpan/urinal independently.",
+            "4. Is totally dependent in toileting."
+        ]
+    },
+    {
+        "question": "M1845. Toileting Hygiene",
+        "options": []
+    },
+    {
+        "question": "Current ability to maintain perineal hygiene safely, adjust clothes and/or incontinence pads before and after using toilet,",
+        "options": [
+            "0. Able to manage toileting hygiene and clothing management without assistance.",
+            "1. Able to manage toileting hygiene and clothing management without assistance if supplies/implements are laid out for",
+            "2. Someone must help the patient to maintain toileting hygiene and/or adjust clothing.",
+            "3. Patient depends entirely upon another person to mai ntain toileting hygiene."
+        ]
+    },
+    {
+        "question": "Current ability to move safely from bed to chair, or ability to turn and position self in bed if patient is bedfast.",
+        "options": [
+            "0. Able to independently transfer.",
+            "1. Able to transfer with minimal human assistance or with use of an assistive device.",
+            "2. Able to bear weight and pivot during the transfer process but unable to transfer self.",
+            "3. Unable to transfer self and is unable to bear weight or pivot when transferred by another person.",
+            "4. Bedfast, unable to trans fer but is able to turn and position self in bed.",
+            "5. Bedfast, unable to transfer and is unable to turn and position self"
+        ]
+    },
+    {
+        "question": "M1860. Ambulation/Locomotion",
+        "options": []
+    },
+    {
+        "question": "Current ability to walk safely, once in a standing position, or use a wheelchair, once in a seated position , on a variety of surfaces.",
+        "options": [
+            "0. Able to independently walk on even and uneven surfaces and negotiate stairs with or without railings (specifically:",
+            "1. With the use of a one -handed device (for example, cane, single crutch, hemi -walker), able to independently walk on",
+            "2. Requires use of a two -handed device (for example, walker or crutches) to walk alone on a level surface and/or",
+            "3. Able to walk only with the supervision or assistance of another person at all times.",
+            "4. Chairfast, unable  to ambulate but is able to wheel self independently.",
+            "5. Chairfast, unable to ambulate and is unable  to wheel self.",
+            "6. Bedfast, unable to ambulate or be up in a chair."
+        ]
+    },
+    {
+        "question": "Section GG  Functional Abilities and Goals",
+        "options": []
+    },
+    {
+        "question": "GG0100. Prior Functioning: Everyday Activities",
+        "options": []
+    },
+    {
+        "question": "Indicate the patient\u2019s usual ability with everyday activities prior to the current illness, exacerbation, or injury.",
+        "options": []
+    },
+    {
+        "question": "Coding :",
+        "options": [
+            "3. Independent  \u2013 Patient completed  all the",
+            "2. Needed Some Help  \u2013 Patient needed partial",
+            "1. Dependent  \u2013 A helper completed  all the",
+            "8. Unknown",
+            "9. Not Applicable",
+            "A. Self Care: Code the patient\u2019s need for assistance with bathing, dressing,",
+            "B. Indoor Mobility (Ambulation): Code the patient\u2019s need for assistance",
+            "C. Stairs: Code the patient\u2019s need for assistance with internal or external",
+            "D. Functional Cognition: Code the patient\u2019s need for assistance wi th"
+        ]
+    },
+    {
+        "question": "GG0110. Prior Device Use",
+        "options": []
+    },
+    {
+        "question": "Indicate devices and aids used by the patient prior to the current illness, exacerbation, or injury.",
+        "options": [
+            "A. Manual wheelchair",
+            "B. Motorized wheelchair and/or scooter",
+            "C. Mechanical lift",
+            "D. Walker",
+            "E. Orthotics/Prosthetics",
+            "Z. None of the above"
+        ]
+    },
+    {
+        "question": "GG0130. Self -Care",
+        "options": []
+    },
+    {
+        "question": "Code the patient\u2019s usual performance at SOC/ROC for each activity using the 6- point scale. If activity was not attempted at",
+        "options": []
+    },
+    {
+        "question": "SOC/ROC, code the reason. Code the patient\u2019s discharge goal(s) using the 6 -point scale. Use of codes 07, 09, 10 or 88 is",
+        "options": []
+    },
+    {
+        "question": "Coding:",
+        "options": []
+    },
+    {
+        "question": "Safety and Quality of Performance  \u2013 If helper assistance is required because patient\u2019s performance is unsafe or of poor quality, score according",
+        "options": []
+    },
+    {
+        "question": "Activities may be completed with or without assistive devices.",
+        "options": [
+            "06. Independent  \u2013 Patient completes the activity by him/herself with no assistance from a helper.",
+            "05. Setup or clean -up assistance  \u2013 Helper sets up or cleans up; patient completes activity. Helper assists only prior to or following the",
+            "04. Supervision or touch ing assistance  \u2013 Helper provides verbal cues and/or touching/steadying and/or contact guard assistance as patient",
+            "03. Partial/moderate assistance  \u2013 Helper does LESS THAN HALF the effort. Helper lifts, holds or supports trunk or limbs, but provides less",
+            "02. Substantial/maximal assistance  \u2013 Helper does MORE THAN HALF the effort. Helper lifts or holds trunk or limbs and provides more than",
+            "01. Dependent  \u2013 Helper does ALL of the effort. Patient does none of the effort to complete the activity. Or, the assistance of 2 or more"
+        ]
+    },
+    {
+        "question": "If activity was not attempted, code reason:",
+        "options": [
+            "07. Patient refused",
+            "09. Not applicable  \u2013 Not attempted and the patient did not perform this activity prior to the current illness, exacerbation or injury.",
+            "10. Not attempted due to environmental limitations (e.g., lack of equipment, weather constraints)",
+            "88. Not attempted due to medical conditions or safety concerns",
+            "1."
+        ]
+    },
+    {
+        "question": "SOC/ROC",
+        "options": []
+    },
+    {
+        "question": "Performance  2.",
+        "options": []
+    },
+    {
+        "question": "Discharge",
+        "options": []
+    },
+    {
+        "question": "Goal",
+        "options": [
+            "A. Eating: The ability to use suitable utensils to bring food and/or liquid to the mouth and swallow food",
+            "B. Oral Hygiene: The ability to use suitable items to clean teeth. Dentures (if applicable): The ability to insert",
+            "C. Toileting Hygiene: The ability to maintain perineal hygiene, adjust clothes before and after voiding or",
+            "E. Shower/bathe self: The ability to bathe self, including washing, rinsing, and drying self (excludes washing",
+            "F. Upper Body Dressing: The ability to dress and undress above the waist; including fasteners, if applicable.",
+            "G. Lower Body Dressing: The ability to dress and undress below the waist, including fasteners; does not",
+            "H. Putting on/Taking off Footwear: The ability to put on and take off socks and shoes or other footwear that"
+        ]
+    },
+    {
+        "question": "GG0130. Self -Care",
+        "options": []
+    },
+    {
+        "question": "Code the patient\u2019s usual performance at Follow -Up for each activity using the 6- point scale. If activity was not attempted at Follow -",
+        "options": []
+    },
+    {
+        "question": "Up, code the reason.",
+        "options": []
+    },
+    {
+        "question": "Coding:",
+        "options": []
+    },
+    {
+        "question": "Safety and Quality of Performance  \u2013 If helper assistance is required because patient\u2019s performance is unsafe or of poor quality, score according",
+        "options": []
+    },
+    {
+        "question": "Activities may be completed with or without assistive devices.",
+        "options": [
+            "06. Independent  \u2013 Patient completes the activ ity by him/herself with no assistance from a helper.",
+            "05. Setup or clean -up assistance  \u2013 Helper sets up or cleans up; patient completes activity. Helper assists only prior to or following the",
+            "04. Supervision or touching assistance  \u2013 Helper provides verbal cues and/or touching/steadying and/or contact guard assistance as patient",
+            "03. Partial/moderate assistance  \u2013 Helper does LESS THAN HALF the effort. Helper lifts, holds or supports trunk or limbs, but provides less",
+            "02. Substantial/maximal assistance  \u2013 Helper does MORE THAN HALF the effort. Helper lifts or holds trunk or limbs and provides more than",
+            "01. Dependent  \u2013 Helper does ALL of the effort. Patient does none of the effort to complete the activity. Or, the assistance of 2 or more"
+        ]
+    },
+    {
+        "question": "If activity was not attempted, code reason:",
+        "options": [
+            "07. Patient refused",
+            "09. Not applicable  \u2013 Not attempted and the patient did not perform this activity prior to the current illness, exacerbation or injury.",
+            "10. Not attempted due to environmental limitations (e.g., lack of equipment, weather constraints)",
+            "88. Not attempted due to medical conditions or safety concerns",
+            "4."
+        ]
+    },
+    {
+        "question": "Follow -Up",
+        "options": []
+    },
+    {
+        "question": "Performance",
+        "options": [
+            "A. Eating:  The ability to use suitable utensils to bring food and/or liquid to the mouth and swallow food and/or liquid once",
+            "B. Oral Hygiene: The ability to use suitable items to clean teeth. Dentures (if applicable): The ability to insert and remove",
+            "C. Toileting Hygiene: The ability to maintain perineal hygiene, adjust clothes before and after voiding or having a bowel"
+        ]
+    },
+    {
+        "question": "GG0130. Self -Care",
+        "options": []
+    },
+    {
+        "question": "Code the patient\u2019s usual performance at Discharge for each activity using the 6- point scale. If activity was not attempted at",
+        "options": []
+    },
+    {
+        "question": "Discharge, code the reason.",
+        "options": []
+    },
+    {
+        "question": "Coding:",
+        "options": []
+    },
+    {
+        "question": "Safety and Quality of Performance  \u2013 If helper assistance is required because patient\u2019s performance is unsafe or of poor quality, score according",
+        "options": []
+    },
+    {
+        "question": "Activities may be completed with or without assistive devices.",
+        "options": [
+            "06. Independent  \u2013 Patient completes the activity by him/herself with no assistance from a helper.",
+            "05. Setup or clean -up assistance  \u2013 Helper sets up or cleans up; patient completes activity. Helper assists only prior to or following the",
+            "04. Supervision or touch ing assistance  \u2013 Helper provides verbal cues and/or touching/steadying and/or contact guard assistance as patient",
+            "03. Partial/moderate assistance  \u2013 Helper does LESS THAN HALF the effort. Helper lifts, holds or supports trunk or limbs, but provides less",
+            "02. Substantial/maximal assistance  \u2013 Helper does MORE THAN HALF the effort. Helper lifts or holds trunk or limbs and provides more than",
+            "01. Dependent  \u2013 Helper does ALL of the effort. Patient does none of the effort to complete the activity. Or, the assistance of 2 or more"
+        ]
+    },
+    {
+        "question": "If activity was not attempted, code reason:",
+        "options": [
+            "07. Patient refused",
+            "09. Not applicable  \u2013 Not attempted and the patient did not perform this activity prior to the current illness, exacerbation or injury.",
+            "10. Not attempted due to environmental limitations (e.g., lack of equipment, weather constraints)",
+            "88. Not attempted due to medi cal conditions or safety concerns",
+            "3."
+        ]
+    },
+    {
+        "question": "Discharge",
+        "options": []
+    },
+    {
+        "question": "Performance",
+        "options": [
+            "A. Eating: The ability to use suitable utensils to bring food and/or liquid to the mouth and swallow food and/or liquid once",
+            "B. Oral Hygiene: The ability to use suitable items to clean teeth. Dentures (if applicable): The ability to insert and remove",
+            "C. Toileting Hygiene: The ability to maintain perineal hygiene, adjust clothes before and after voiding or having a bowel",
+            "E. Shower/bathe self: The ability to bathe self, including washing, rinsing, and drying self (excludes washing of back and",
+            "F. Upper body dressing: The ability to dress and undress above the waist; including fasteners,",
+            "G. Lower body dressing: The ability to dress and undress below the waist, including fasteners; does not include footwear.",
+            "H. Putting on/taking off footwear: The ability to put on and take off socks and shoes or other footwear that is appropriate"
+        ]
+    },
+    {
+        "question": "GG0170. Mobility",
+        "options": []
+    },
+    {
+        "question": "Code the patient\u2019s usual performance at SOC/ROC for each activity using the 6 -point scale. If activity was not attempted at",
+        "options": []
+    },
+    {
+        "question": "SOC/ROC, code the reason. Code the patient\u2019s discharge goal(s) using the 6- point scale. Use of codes 07, 09, 10 or 88 is",
+        "options": []
+    },
+    {
+        "question": "Coding:",
+        "options": []
+    },
+    {
+        "question": "Safety and Quality of Performance  \u2013 If helper assistance is required because patient\u2019s performance is unsafe or of poor quality, score according",
+        "options": []
+    },
+    {
+        "question": "Activities may be completed with or without assistive devices.",
+        "options": [
+            "06. Independent  \u2013 Patient completes the activ ity by him/herself with no assistance from a helper.",
+            "05. Setup or clean -up assistance  \u2013 Helper sets up or cleans up; patient completes activity. Helper assists only prior to or following the",
+            "04. Supervision or touching assistance  \u2013 Helper provides verbal cues and/or touching/steadying and/or contact guard assistance as patient",
+            "03. Partial/moderate assistance  \u2013 Helper does LESS THAN HALF the effort. Helper l ifts, holds or supports trunk or limbs, but provides less",
+            "02. Substantial/maximal assistance  \u2013 Helper does MORE THAN HALF the effort. Helper lifts or holds trunk or limbs and provides more than",
+            "01. Dependent  \u2013 Helper does ALL of the effort. Patient does none of the effort to complete the activity. Or, the assistance of 2 or more"
+        ]
+    },
+    {
+        "question": "If activity was not attempted, code reason:",
+        "options": [
+            "07. Patient refused",
+            "09. Not applicable  \u2013 Not attempted and the patient did not perform this activity prior to the current illness, exacerbation or injury.",
+            "10. Not attempted due to environmental limitations (e.g., lack of equipment, weather constraints)",
+            "88. Not attempted du e to medical conditions or safety concerns",
+            "1."
+        ]
+    },
+    {
+        "question": "SOC/ROC",
+        "options": []
+    },
+    {
+        "question": "Performance  2.",
+        "options": []
+    },
+    {
+        "question": "Discharge",
+        "options": []
+    },
+    {
+        "question": "Goal",
+        "options": [
+            "A. Roll left and right: The ability to roll from lying on back to left and right side, and return to lying on",
+            "B. Sit to lying: The ability to move from sitting on side of bed to lying flat on the bed.",
+            "C. Lying to sitting on side of bed: The ability to move from lying on the back to sitting on the side of",
+            "D. Sit to stand: The ability to come to a standing position from sitting in a chair, wheelchair, or on the",
+            "E. Chair/bed -to-chair transfer: The ability to transfer to and from a bed to a chair (or wheelchair).",
+            "F. Toilet transfer: The ability to get on and off a toilet or commode.",
+            "G. Car transfer: The ability  to transfer in and out of a car or van on the passenger side. Does not",
+            "I. Walk 10 feet: Once standing, the ability to walk at least 10 feet in a room, corridor, or similar space."
+        ]
+    },
+    {
+        "question": "If SOC/ROC performance is coded 07, 09, 10 or 88, \u2192 Skip to  GG0170M, Mobility, 1 step (curb)",
+        "options": [
+            "J. Walk 50 feet with two turns: Once standing, the ability to walk 50 feet and make two turns.",
+            "K. Walk 150 feet: Once standing, the ability to walk at least 150 feet in a corridor or similar space.",
+            "L. Walking 10 feet on uneven surfaces: The ability to walk 10 feet on uneven or sloping surfaces",
+            "M. 1 step (curb): The ability to go up and down a curb or up and down one step."
+        ]
+    },
+    {
+        "question": "If SOC/ROC performance is coded 07, 09, 10 or 88, \u2192 Skip to  GG0170P, Mobility, Picking up object.",
+        "options": [
+            "N. 4 steps: The ability to go up and down four steps with or without a rail."
+        ]
+    },
+    {
+        "question": "If SOC/ROC performance is coded 07, 09, 10 or 88, \u2192 Skip to  GG0170P, Mobility, Picking up object.",
+        "options": [
+            "O. 12 steps: The ability to go up and down 12 steps with or without a rail."
+        ]
+    },
+    {
+        "question": "SOC/ROC GG0170. Mobility \u2013 Continued",
+        "options": []
+    },
+    {
+        "question": "SOC/ROC",
+        "options": []
+    },
+    {
+        "question": "Performance  2.",
+        "options": []
+    },
+    {
+        "question": "Discharge",
+        "options": []
+    },
+    {
+        "question": "Goal",
+        "options": [
+            "P. Picking up object : The ability to bend/stoop from a standing position to pick up a small object, such",
+            "Q1.  Does patient use wheelchair and/or scooter?",
+            "0. No \u2192 Skip to M1600, Urinary Tract Infection",
+            "1. Yes \u2192 Continue to GG0170R, Wheel 50 feet with two turns",
+            "R. Wheel 50 feet with two turns: Once seated in wheelchair/scooter, the ability to wheel at least 50 feet"
+        ]
+    },
+    {
+        "question": "RR1.  Indicate the type of wheelchair or scooter used.",
+        "options": [
+            "1. Manual",
+            "2. Motorized",
+            "S.  Wheel 150 feet: Once seated in wheelchair/scooter, the ability to wheel at least 150 feet in a corridor"
+        ]
+    },
+    {
+        "question": "SS1. Indicate the type of wheelchair or scooter used.",
+        "options": [
+            "1. Manual",
+            "2. Motorized"
+        ]
+    },
+    {
+        "question": "Follow -up",
+        "options": []
+    },
+    {
+        "question": "GG0170. Mobility",
+        "options": []
+    },
+    {
+        "question": "Code the patient\u2019s usual performance at Follow -Up for each activity using the 6- point scale. If activity was not attempted at",
+        "options": []
+    },
+    {
+        "question": "Follow -Up code the reason.",
+        "options": []
+    },
+    {
+        "question": "Coding:",
+        "options": []
+    },
+    {
+        "question": "Safety and Quality of Performance  \u2013 If helper assistance is required because patient\u2019s performance is unsafe or of poor quality, score according",
+        "options": []
+    },
+    {
+        "question": "Activities may be completed with or without assistive devices.",
+        "options": [
+            "06. Independent  \u2013 Patient completes the activ ity by him/herself with no assistance from a helper.",
+            "05. Setup or clean -up assistance  \u2013 Helper sets up or cleans up; patient completes activity. Helper assists only prior to or following the",
+            "04. Supervision or touching assistance  \u2013 Helper provides verbal cues and/or touching/steadying and/or contact guard assistance as patient",
+            "03. Partial/moderate assistance  \u2013 Helper does LESS THAN HALF the effort. Helper lifts, holds or supports trunk or limbs, but provides less",
+            "02. Substantial/maximal assistance  \u2013 Helper does MORE THAN HALF the effort. Helper lifts or holds trunk or limbs and provides more than",
+            "01. Dependent  \u2013 Helper does ALL of the effort. Patient does none of the effort to complete the activity. Or, the assistance of 2 or more"
+        ]
+    },
+    {
+        "question": "If activity was not attempted, code reason:",
+        "options": [
+            "07. Patient refused",
+            "09. Not applicable  \u2013 Not attempted and the patient did not perform this activity prior to the current illness, exacerbation or injury.",
+            "10. Not attempted due to environmental limitations (e.g., lack of equipment, weather constraints)",
+            "88. Not attempted due to medical conditions or safety concerns"
+        ]
+    },
+    {
+        "question": "GG0170. Mobility",
+        "options": []
+    },
+    {
+        "question": "Code the patient\u2019s usual performance at Follow -Up for each activity using the 6- point scale. If activity was not attempted at",
+        "options": []
+    },
+    {
+        "question": "Follow -Up code the reason.",
+        "options": [
+            "4."
+        ]
+    },
+    {
+        "question": "Follow -up",
+        "options": []
+    },
+    {
+        "question": "Performance",
+        "options": []
+    },
+    {
+        "question": "Enter  Codes  in Boxes",
+        "options": [
+            "A. Roll left and right: The ability to roll from lying on back to left and right side, and return to lying on back on the",
+            "B. Sit to lying: The ability to move from sitting on side of bed to lying flat on the bed.",
+            "C. Lying to sitting on side of bed: The ability to move from lying on the back to sitting on the side of the bed with no",
+            "D. Sit to stand: The ability to come to a standing position from sitting in a chair, wheelchair, or on the side of the",
+            "E. Chair/bed -to-chair transfer: The ability to transfer to and from a bed to a chair (or wheelchair).",
+            "F. Toilet transfer: The ability to get on and off a toilet or commode.",
+            "I. Walk 10 feet: Once standing, the ability to walk at least 10 feet in a room, corridor, or similar space."
+        ]
+    },
+    {
+        "question": "If Follow -Up performance is coded  07, 09, 10 or 88 \u2192 Skip to GG0170M, 1 step (curb) .",
+        "options": [
+            "J.      Walk 50 feet with two turns: Once standing, the ability to walk 50 feet and make two turns.",
+            "L.      Walking 10 feet on uneven surfaces: The ability to walk 10 feet on uneven or sloping surfaces (indoor or",
+            "M. 1 step (curb): The ability to go up and down a curb or up and down one step."
+        ]
+    },
+    {
+        "question": "If Follow -up performance is coded 07, 09, 10 or 88, \u2192 Skip to GG0170Q, Does patient use wheelchair and/or",
+        "options": []
+    },
+    {
+        "question": "scooter?",
+        "options": [
+            "N.       4 steps: The ability to go up and down four steps with or without a rail.",
+            "Q4. Does patient use wheelchair and/or scooter?",
+            "0. No \u2192 Skip to M1033, Risk for Hospitalization",
+            "1. Yes\u2192 Continue  to GG0170R, Wheel 50 feet with two turns",
+            "R. Wheel 50 feet with two turns: Once seated in wheelchair/scooter, the ability to wheel at least 50 feet and make"
+        ]
+    },
+    {
+        "question": "Discharge",
+        "options": []
+    },
+    {
+        "question": "GG0170. Mobility",
+        "options": []
+    },
+    {
+        "question": "Code the patient\u2019s usual performance at Discharge for each activity using the 6- point scale. If activity was not attempted at",
+        "options": []
+    },
+    {
+        "question": "Discharge, code the reason.",
+        "options": []
+    },
+    {
+        "question": "Coding:",
+        "options": []
+    },
+    {
+        "question": "Safety and Quality of Performance  \u2013 If helper assistance is required because patient\u2019s performance is unsafe or of poor quality, score according",
+        "options": []
+    },
+    {
+        "question": "Activities may be completed with or without assistive devices.",
+        "options": [
+            "06. Independent  \u2013 Patient completes the activ ity by him/herself with no assistance from a helper.",
+            "05. Setup or clean -up assistance  \u2013 Helper sets up or cleans up; patient completes activity. Helper assists only prior to or following the",
+            "04. Supervision or touching assistance  \u2013 Helper provides verbal cues and/or touching/steadying and/or contact guard assistance as patient",
+            "03. Partial/moderate assistance  \u2013 Helper does LESS THAN HALF the effort. Helper lifts, holds or supports trunk or limbs, but provides less",
+            "02. Substantial/maximal assistance  \u2013 Helper does MORE THAN HALF the effort. Helper lifts or holds trunk or limbs and provides more than",
+            "01. Dependent  \u2013 Helper does ALL of the effort. Patient does none of the effort to complete the activity. Or, the assistance of 2 or more"
+        ]
+    },
+    {
+        "question": "If activity was not attempted, code reason:",
+        "options": [
+            "07. Patient refus ed"
+        ]
+    },
+    {
+        "question": "GG0170. Mobility",
+        "options": []
+    },
+    {
+        "question": "Code the patient\u2019s usual performance at Discharge for each activity using the 6- point scale. If activity was not attempted at",
+        "options": []
+    },
+    {
+        "question": "Discharge, code the reason.",
+        "options": [
+            "09. Not applicable  \u2013 Not attempted and the patient did not perform this activity prior to the current illness, exacerbation or injury.",
+            "10. Not attempted due to environmental limitations (e.g., lack of equipment, weather constraints)",
+            "88. Not attempted due to medical conditions or safety concerns",
+            "3."
+        ]
+    },
+    {
+        "question": "Discharge",
+        "options": []
+    },
+    {
+        "question": "Performance",
+        "options": [
+            "A. Roll left and right: The ability to roll from lying on back to left and right side, and return to lying on back on the bed.",
+            "B.  Sit to lying: The ability to move from sitting on side of bed to lying flat on the bed.",
+            "C.  Lying to sitting on side of bed: The ability to move from lying on the back to sitting on the side of the bed with  with",
+            "D.  Sit to stand:  The ability to come to a standing position from sitting in a chair, wheelchair, or on the side of the bed.",
+            "E.  Chair/bed -to-chair transfer: The ability to transfer to and from a bed to a chair (or wheelchair).",
+            "F.  Toilet transfer: The ability to get on and off a toilet or commode.",
+            "G.  Car Transfer: The ability to transfer in and out of a car or van on the passenger side. Does not include the ability to",
+            "I.  Walk 10 feet: Once standing, the ability to walk at least 10 feet in a room, corridor, or similar space."
+        ]
+    },
+    {
+        "question": "If Discharge performance is coded 07, 09, 10 or 88, \u2192 Skip to GG0170M, 1 step (curb).",
+        "options": [
+            "J.  Walk 50 feet with two turns: Once standing, the ability to walk 50 feet and make two turns.",
+            "K.  Walk 150 feet: Once standing, the ability to walk at least 150 feet in a corridor or similar space.",
+            "L.  Walking 10 feet on uneven surfaces: The ability to walk 10 feet on uneven or sloping surfaces (indoor or outdoor),",
+            "M.  1 step (curb): The ability to go up and down a curb or up and down one step."
+        ]
+    },
+    {
+        "question": "If Discharge performance is coded 07, 09, 10 or 88, \u2192 Skip to GG0170P, Mobility, Picking up object.",
+        "options": [
+            "N.  4 steps: The ability to go up and down four steps with or without a rail."
+        ]
+    },
+    {
+        "question": "If Discharge performance is coded 07, 09, 10 or 88, \u2192 Skip to GG0170P, Mobility, Picking up object.",
+        "options": [
+            "O.  12 steps: The ability to go up and down 12 steps with or without a rail.",
+            "P. Picking up object : The ability to bend/stoop from a standing position to pick up a small object, such as a spoon, from",
+            "Q3. Does patient use wheelchair and/or scooter?",
+            "0. No \u2192 Skip to M1600, Urinary Tract Infection",
+            "1. Yes \u2192 Continue to GG0170R, Wheel 50 feet with two turns",
+            "R. Wheel 50 feet with two turns: Once seated in wheelchair/scooter, the ability to wheel at least 50 feet and make two"
+        ]
+    },
+    {
+        "question": "RR3.  Indicate the type of wheelchair or scooter used.",
+        "options": [
+            "1. Manual",
+            "2. Motorized",
+            "S. Wheel 150 feet: Once seated in wheelchair/scooter, the ability to wheel at least 150 feet in a corridor or similar space."
+        ]
+    },
+    {
+        "question": "SS3.  Indicate the type of wheelchair or scooter used.",
+        "options": [
+            "1. Manual",
+            "2. Motorized"
+        ]
+    },
+    {
+        "question": "M1600. Has this patient been treated for a  Urinary Tract Infection in the past 14 days?",
+        "options": [
+            "1. Yes"
+        ]
+    },
+    {
+        "question": "NA Patient on prophylactic treatment",
+        "options": []
+    },
+    {
+        "question": "UK Unknown  [Omit \u201cUK\u201d option on DC]",
+        "options": []
+    },
+    {
+        "question": "M1610. Urinary Incontinence or Urinary Catheter Presence",
+        "options": [
+            "1. Patient is incontinent",
+            "2. Patient requires a urinary catheter (specifically: external, indwelling, intermittent, or suprapubic)"
+        ]
+    },
+    {
+        "question": "M1620. Bowel Incontinence Frequency",
+        "options": [
+            "1. Less than once weekly",
+            "2. One to three times weekly",
+            "3. Four to six times weekly",
+            "4. On a daily basis",
+            "5. More often than once daily"
+        ]
+    },
+    {
+        "question": "NA Patient has ostomy for bowel elimination",
+        "options": []
+    },
+    {
+        "question": "UK Unknown  [Omit \u201cUK\u201d option on DC]",
+        "options": []
+    },
+    {
+        "question": "M1630. Ostomy for Bowel Elimination",
+        "options": []
+    },
+    {
+        "question": "Does this patient have an ostomy for bowel elimination that (within the last 14 days): a) was related to an inpatient facilit y stay;",
+        "options": []
+    },
+    {
+        "question": "or b) necessitated a change in medical or treatment regimen?",
+        "options": [
+            "1. Patient's ostomy was not  related to an inpatient stay and did not  necessitate change in medical or treatment regimen.",
+            "2. The ostomy was related to an inpatient stay or did necessitate change in medical or treatment regimen."
+        ]
+    },
+    {
+        "question": "Section I Active Diagnoses",
+        "options": []
+    },
+    {
+        "question": "M1028. Active Diagnoses \u2013 Comorbidities and Co -existing Conditions",
+        "options": []
+    },
+    {
+        "question": "See OASIS Guidance Manual for a complete list of relevant ICD -10 codes.",
+        "options": [
+            "1. Peripheral Vascular Disease (PVD) or Peripheral Arterial Disease (PAD)",
+            "2. Diabetes Mellitus (DM)",
+            "3. None of the above"
+        ]
+    },
+    {
+        "question": "M1021. Primary Diagnosis & M1023. Other Diagnoses",
+        "options": []
+    },
+    {
+        "question": "Column 1  Column 2",
+        "options": []
+    },
+    {
+        "question": "Diagnoses (Sequencing of diagnoses should reflect the seriousness of each",
+        "options": []
+    },
+    {
+        "question": "M1021. Primary Diagnosis",
+        "options": [
+            "A. ___________________________________",
+            "B. ___________________________________",
+            "C. ___________________________________",
+            "D. ___________________________________",
+            "E. ___________________________________",
+            "F. ___________________________________"
+        ]
+    },
+    {
+        "question": "Section J Health Conditions",
+        "options": []
+    },
+    {
+        "question": "M1033. Risk for Hospitalization",
+        "options": []
+    },
+    {
+        "question": "Which of the following signs or symptoms characterize this patient as at risk for hospitalization?",
+        "options": [
+            "1. History of falls (2 or more falls \u2013 or any fall with an injury \u2013 in the past 12 months)",
+            "2. Unintentional weight loss of a total of 10 pounds or more in the past 12 months",
+            "3. Multiple hospitalizations (2 or more) in the past 6 months",
+            "4. Multiple emergency department visits (2 or more) in the past 6 months",
+            "5. Decline in mental, emotional, or behavioral status in the past 3 months",
+            "6. Reported or observed history of difficulty complying with any medical instructions (for example, medications,",
+            "7. Currently taking 5 or more medications",
+            "8. Currently reports exhaustion",
+            "9. Other risk(s) not listed in 1 -8",
+            "10. None of the above"
+        ]
+    },
+    {
+        "question": "J0510. Pain Effect on Sleep",
+        "options": [
+            "0. Does not apply \u2013 I have not had any pain or hurting in the past 5 days  \u2192 Skip to M1400, Short  of Breath  at SOC/ROC; Skip",
+            "1. Rarely or not at all",
+            "2. Occasionally",
+            "3. Frequently",
+            "4. Almost constantly",
+            "8.Unable to answer"
+        ]
+    },
+    {
+        "question": "J0520. Pain Interference with Therapy Activities",
+        "options": [
+            "0. Does not apply \u2013 I have not received rehabilitation therapy in the past 5 days",
+            "1. Rarely or not at all",
+            "2. Occasionally",
+            "3. Frequently",
+            "4. Almost constantly",
+            "8.Unable to answer"
+        ]
+    },
+    {
+        "question": "Ask patient: \" Over the past 5 days,  how often you have limited your day -to-day activities ( excluding  rehabilitation therapy",
+        "options": [
+            "1. Rarely or not at all",
+            "2. Occasionally",
+            "3. Frequently",
+            "4. Almost constantly",
+            "8. Unable to answer"
+        ]
+    },
+    {
+        "question": "J1800. Any Falls Since SOC/ROC , whichever is more recent",
+        "options": []
+    },
+    {
+        "question": "Indicate the patient\u2019s usual ability with everyday activities prior to the current illness, exacerbation, or injury.",
+        "options": []
+    },
+    {
+        "question": "Has the patient had any falls since SOC/ROC,  whichever is more recent ?",
+        "options": [
+            "0. No \u2192 Skip to  M1400, Short of Breath at DC ; Skip to M2005, Medication Intervention at TRN and DAH",
+            "1. Yes \u2192 Continue to J1900, Number of Falls Since SOC/ROC"
+        ]
+    },
+    {
+        "question": "J1900. Number of Falls Since SOC/ROC, whichever is more recent",
+        "options": []
+    },
+    {
+        "question": "Coding :",
+        "options": [
+            "0. None",
+            "1. One",
+            "2. Two or more  \u2193 Enter Codes in Boxes",
+            "A. No injury: No evidence of any injury is noted on physical assessment by the nurse",
+            "B.  Injury (except major): Skin tears, abrasions, lacerations, superficial bruises,",
+            "C.  Major injury: Bone  fractures , joint dislocations, closed head injur ies with altered"
+        ]
+    },
+    {
+        "question": "M1400. When is the patient dyspneic or noticeably  Short of Breath?",
+        "options": [
+            "0. Patient is not short of breath",
+            "1. When walking more than 20 feet, climbing stairs",
+            "2. With moderate exertion (for example, while dressing, using commode or bedpan, walking distances less than 20 feet)",
+            "3. With minimal exertion (for example, while eating, talking, or performing other ADLs) or with agitation",
+            "4. At rest (during day or night)"
+        ]
+    },
+    {
+        "question": "Sectio n K Swallowing/Nutritional Status",
+        "options": []
+    },
+    {
+        "question": "M1060. Height and Weight \u2013 While measuring, if the number is X.1 -X.4 round down; X.5 or greater round up.",
+        "options": [
+            "A. Height (in inches). Record most recent height measure since the most recent SOC/ROC",
+            "B. Weight  (in pounds). Base weight on most recent measure in last 30 days; measure weight consistently, according to"
+        ]
+    },
+    {
+        "question": "SOC/ROC",
+        "options": []
+    },
+    {
+        "question": "K0520. Nutritional Approaches",
+        "options": [
+            "1. On Admission"
+        ]
+    },
+    {
+        "question": "Check all of the nutritional approaches that apply  on admission  1.",
+        "options": []
+    },
+    {
+        "question": "On A dmission",
+        "options": [
+            "A. Parenteral/IV feeding",
+            "B. Feeding tube (e.g., nasogastric or abdominal (PEG))",
+            "C. Mechanically altered diet \u2013 require change in texture of food or liquids",
+            "D. Therapeutic diet (e.g., low salt, diabetic, low cholesterol)",
+            "Z. None of the above"
+        ]
+    },
+    {
+        "question": "K0520. Nutritional Approaches",
+        "options": [
+            "4. Last 7 days"
+        ]
+    },
+    {
+        "question": "Check all of the nutritional approaches that were received in the last 7  days",
+        "options": [
+            "5. At discharge"
+        ]
+    },
+    {
+        "question": "Check  all of the nutritional approaches that were being received at discharge  4.",
+        "options": []
+    },
+    {
+        "question": "Last 7 days  5.",
+        "options": []
+    },
+    {
+        "question": "At discharge",
+        "options": [
+            "A. Parenteral/IV feeding",
+            "B. Feeding tube (e.g., nasogastric or abdominal (PEG))",
+            "C. Mechanically altered diet \u2013 require change in texture of food or liquids",
+            "D. Therapeutic diet (e.g., low salt, diabetic, low cholesterol)",
+            "Z. None of the above"
+        ]
+    },
+    {
+        "question": "M1870. Feeding or Eating",
+        "options": []
+    },
+    {
+        "question": "Current ability to feed self meals  and snacks safely. Note: This refers only to the process of eating , chewing , and swallowing, not",
+        "options": [
+            "0. Able to independently feed self.",
+            "1. Able to feed self independently but requires:",
+            "a. meal set-up; OR",
+            "b. intermittent assistance or supervision from another person; OR",
+            "c. a liquid, pureed or ground meat diet.",
+            "2. Unable  to feed self and must be assisted or supervised throughout the meal/snack.",
+            "3. Able to take in nutrients orally and  receives supplemental nutrients t hrough a nasogastric tube or gastrostomy.",
+            "4. Unable  to take in nutrients orally and is fed nutrients through a nasogastric tube or gastrostomy.",
+            "5. Unable  to take in nutrients orally or by tube feeding."
+        ]
+    },
+    {
+        "question": "Section M  Skin Conditions",
+        "options": []
+    },
+    {
+        "question": "M1306. Does this patient have at least one  Unhealed Pressure Ulcer/Injury at Stage 2 or Higher or designated as Unstageable?",
+        "options": []
+    },
+    {
+        "question": "Enter Number",
+        "options": [
+            "0. No \u2192 Skip to  M1322, Current Number of Stage 1 Pressure Injuries at SOC/ROC; Skip to  M1324, Stage of Most Problematic"
+        ]
+    },
+    {
+        "question": "Unhealed Pressure Ulcer/Injury that is Stageable at DC",
+        "options": [
+            "1. Yes"
+        ]
+    },
+    {
+        "question": "M1307. The Oldest Stage 2 Pressure Ulcer that is present at discharge: (Excludes healed Stage 2 pressure ulcers)",
+        "options": []
+    },
+    {
+        "question": "Enter  Number",
+        "options": [
+            "1. Was present at the most recent SOC/ROC assessment",
+            "2. Developed since the most recent SOC/ROC assessment.  Record date pressure ulcer first identified:"
+        ]
+    },
+    {
+        "question": "NA No Stage 2 pressure ulcers are present at discharge",
+        "options": []
+    },
+    {
+        "question": "M1311. Current Number of Unhealed Pressure Ulcers/Injuries at Each Stage",
+        "options": []
+    },
+    {
+        "question": "Enter Number",
+        "options": [
+            "A1. Stage 2: Partial thickness loss of dermis presenting as a shallow open ulcer with a red or pink wound bed, without slough."
+        ]
+    },
+    {
+        "question": "May also present as an intact or open/ruptured blister.",
+        "options": []
+    },
+    {
+        "question": "Number of Stage 2 pressure ulcers",
+        "options": []
+    },
+    {
+        "question": "Enter Number",
+        "options": [
+            "B1. Stage 3: Full thickness tissue loss. Subcutaneous fat may be visible but bone, tendon, or muscle is not exposed. Slough may"
+        ]
+    },
+    {
+        "question": "Number of Stage 3 pressure ulcers",
+        "options": []
+    },
+    {
+        "question": "Enter Number",
+        "options": [
+            "C1. Stage 4 : Full thickness tissue loss with exposed bone, tendon, or muscle. Slough or eschar may be present on some parts of"
+        ]
+    },
+    {
+        "question": "Number of Stage 4 pressure ulcers",
+        "options": []
+    },
+    {
+        "question": "Enter Number",
+        "options": [
+            "D1. Unstageable: Non -removable dressing/device : Known but not stageable due to non-removable dressing/device"
+        ]
+    },
+    {
+        "question": "Number of unstageable pressure ulcers/injuries due to non -removable dressing/device",
+        "options": []
+    },
+    {
+        "question": "Enter Number",
+        "options": [
+            "E1. Unstageable: Slough and/or eschar:  Known but not stageable due to coverage of wound bed by slough and/or eschar"
+        ]
+    },
+    {
+        "question": "Number of unstageable pressure ulcers due to coverage of wound bed by slough and/or eschar",
+        "options": []
+    },
+    {
+        "question": "Enter Number",
+        "options": [
+            "F1. Unstageable: Deep tissue injury"
+        ]
+    },
+    {
+        "question": "Number of unstageable pressure injuries presenting as deep tissue injury",
+        "options": []
+    },
+    {
+        "question": "Discharge",
+        "options": []
+    },
+    {
+        "question": "M1311. Current Number of Unhealed Pressure Ulcers/Injuries at Each Stage",
+        "options": []
+    },
+    {
+        "question": "Enter Number",
+        "options": [
+            "A1. Stage 2: Partial thickness loss of dermis presenting as a shallow open ulcer with a red or pink wound bed, without slough."
+        ]
+    },
+    {
+        "question": "May also present as an intact or open/ruptured blister.",
+        "options": []
+    },
+    {
+        "question": "Number of Stage 2 pressure ulcers \u2013 If 0 \u2192 Skip to M1311B1, Stage 3",
+        "options": []
+    },
+    {
+        "question": "Enter Number",
+        "options": [
+            "A2. Number of these  Stage 2 pressure ulcers that were present at most recent SOC/ROC"
+        ]
+    },
+    {
+        "question": "Enter Number",
+        "options": [
+            "B1. Stage 3: Full thickness tissue loss. Subcutaneous fat may be visible but bone, tendon, or muscle is not  exposed. Slough may"
+        ]
+    },
+    {
+        "question": "Number of Stage 3 pressure ulcers \u2013 If 0 \u2192 Skip to M1311C1, Stage 4",
+        "options": []
+    },
+    {
+        "question": "Enter Number",
+        "options": [
+            "B2. Number of these  Stage 3 pressure ulcers that were present at most recent SOC/ROC"
+        ]
+    },
+    {
+        "question": "Enter Number",
+        "options": [
+            "C1. Stage 4: Full thickness tissue loss with exposed bone, tendon, or muscle. Slough or eschar may be present on some parts of"
+        ]
+    },
+    {
+        "question": "Number of Stage 4 pressure ulcers \u2013 If 0 \u2192 Skip to M1311D1, Unstageable: Non -removable dressing/device",
+        "options": []
+    },
+    {
+        "question": "Enter Number",
+        "options": [
+            "C2. Number of these Stage 4 pressure ulcers that were present at most recent SOC/ROC"
+        ]
+    },
+    {
+        "question": "Enter Number",
+        "options": [
+            "D1. Unstageable: Non -removable dressing/device : Known but not stageable due to non -removable dressing/device"
+        ]
+    },
+    {
+        "question": "Number of unstageable pressure ulcers/injuries due to non -removable dressing/device \u2013 If 0 \u2192 Skip to  M1311E1,",
+        "options": []
+    },
+    {
+        "question": "Unstageable: Slough and/or eschar",
+        "options": []
+    },
+    {
+        "question": "Enter Number",
+        "options": [
+            "D2. Number of these  unstageable pressure ulcers/injuries that were present at most recent SOC/ROC"
+        ]
+    },
+    {
+        "question": "Enter Number",
+        "options": [
+            "E1. Unstageable: Slough and/or eschar:  Known but not stageable due to coverage of wound bed by slough and/or eschar"
+        ]
+    },
+    {
+        "question": "Number of unstageable pressure ulcers due to coverage of wound bed by slough and/or eschar \u2013 If 0 \u2192 Skip to  M1311F1,",
+        "options": []
+    },
+    {
+        "question": "Unstageable: Deep tissue injury",
+        "options": []
+    },
+    {
+        "question": "Enter Number",
+        "options": [
+            "E2. Number of these  unstageable pressure ulcers that were present at most recent SOC/ROC"
+        ]
+    },
+    {
+        "question": "Enter Number",
+        "options": [
+            "F1. Unstageable: Deep tissue injury"
+        ]
+    },
+    {
+        "question": "Number of unstageable pressure injuries presenting as deep tissue injury \u2013 If 0 \u2192 Skip to  M1324, Stage of Most",
+        "options": []
+    },
+    {
+        "question": "Problematic Unhealed Pressure Ulcer/Injury that is Stageable",
+        "options": []
+    },
+    {
+        "question": "Enter Number",
+        "options": [
+            "F2. Number of these  unstageable pressure injuries that were present at most recent SOC/ROC"
+        ]
+    },
+    {
+        "question": "Intact skin with non- blanchable redness of a localized area usually over a bony prominence. Darkly pigmented skin may not have",
+        "options": []
+    },
+    {
+        "question": "M1324. Stage of Most Problematic Unhealed Pressure Ulcer/Injury that is Stageable",
+        "options": []
+    },
+    {
+        "question": "Excludes pressure ulcer/injury that cannot be staged due to a non- removable dressing/device, coverage of wound bed by slough",
+        "options": [
+            "1. Stage 1",
+            "2. Stage 2",
+            "3. Stage 3",
+            "4. Stage 4"
+        ]
+    },
+    {
+        "question": "NA Patient has no pressure ulcers/injuries or no stageable pressure ulcers/injuries",
+        "options": []
+    },
+    {
+        "question": "M1330. Does this patient have a  Stasis Ulcer?",
+        "options": [
+            "0. No \u2192 Skip to  M1340, Surgical Wound",
+            "1. Yes, patient has BOTH observable and unobservable stasis ulcers",
+            "2. Yes, patient has observable stasis ulcers ONLY",
+            "3. Yes, patient has unobservable stasis ulcers ONLY (known but not observable due to non- removable dressing/device)"
+        ]
+    },
+    {
+        "question": "M1332. Current  Number of Stasis Ulcer(s) that are Observable",
+        "options": [
+            "1. One",
+            "2. Two",
+            "3. Three",
+            "4. Four"
+        ]
+    },
+    {
+        "question": "M1334. Status of Most Problematic Stasis Ulcer that is Observable",
+        "options": [
+            "1. Fully granulating",
+            "2. Early/partial granulation",
+            "3. Not healing"
+        ]
+    },
+    {
+        "question": "M1340. Does this patient have a  Surgical Wound ?",
+        "options": [
+            "0. No \u2192 Skip to N0415, High -Risk Drug Classes: Use and Indication",
+            "1. Yes, patient has at least one observable surgical wound",
+            "2. Surgical wound known but not observable due to non -removable dressing/device \u2192 Skip to N0415, High -Risk Drug"
+        ]
+    },
+    {
+        "question": "Classes: Use and Indication",
+        "options": []
+    },
+    {
+        "question": "M1342. Status of Most Problematic Surgical Wound that is Observable",
+        "options": [
+            "0. Newly epithelialized",
+            "1. Fully granulating",
+            "2. Early/partial granulation",
+            "3. Not healing"
+        ]
+    },
+    {
+        "question": "SOC/ROC and Discharge",
+        "options": []
+    },
+    {
+        "question": "N0415. High -Risk Drug Classes: Use and Indication",
+        "options": [
+            "1. Is taking"
+        ]
+    },
+    {
+        "question": "Check if the patient is taking any medications by pharmacological",
+        "options": [
+            "2. Indication noted"
+        ]
+    },
+    {
+        "question": "If Column 1 is checked, check if there is an indication noted for all",
+        "options": [
+            "A. Antipsychotic",
+            "E. Anticoagulant",
+            "F. Antibiotic",
+            "H. Opioid",
+            "I. Antiplatelet",
+            "J. Hypoglycemic (including insulin)",
+            "Z.  None of the Above"
+        ]
+    },
+    {
+        "question": "M2001. Drug Regimen Review",
+        "options": []
+    },
+    {
+        "question": "Did a complete drug regimen review identify potential clinically significant medication issues ?",
+        "options": [
+            "0. No \u2013 No issues found during review \u2192 Skip to  M2010, Patient/Caregiver High -Risk Drug Education",
+            "1. Yes \u2013 Issues found during review",
+            "9. NA \u2013 Patient is not taking any medications \u2192 Skip to O0110, Special Treatments, Procedures, and Programs"
+        ]
+    },
+    {
+        "question": "M2003. Medication Follow -up",
+        "options": []
+    },
+    {
+        "question": "Did the agency contact a physician (or physician -designee) by midnight of the next calendar day and complete",
+        "options": []
+    },
+    {
+        "question": "prescribed/recommended actions in response to the identified potential clinically significant medication issues?",
+        "options": [
+            "0. No",
+            "1. Yes"
+        ]
+    },
+    {
+        "question": "M2005. Medication Intervention",
+        "options": []
+    },
+    {
+        "question": "Did the agency contact and complete physician (or physician -designee) prescribed/recommended actions by midnight of the next",
+        "options": []
+    },
+    {
+        "question": "calendar day each time potential clinically significant medication issues were identified since the SOC/ROC?",
+        "options": [
+            "0. No",
+            "1. Yes",
+            "9. NA \u2013 There were no potential clinically significant medication issues identified since SOC/ROC or patient is not taking any"
+        ]
+    },
+    {
+        "question": "M2010. Patient/Caregiver High -Risk Drug Education",
+        "options": []
+    },
+    {
+        "question": "Has the patient/caregiver received instruction on special precautions for all high -risk medications (such as hypoglycemics,",
+        "options": []
+    },
+    {
+        "question": "anticoagulants, etc.) and how and when to report problems that may occur?",
+        "options": [
+            "0. No",
+            "1. Yes"
+        ]
+    },
+    {
+        "question": "NA Patient not taking any high -risk drugs OR patient/caregiver fully knowledgeable about special precautions associated",
+        "options": []
+    },
+    {
+        "question": "At the time of, or at any time since the most recent SOC/ROC assessment, was the patient/caregiver instructed by agency staff or",
+        "options": []
+    },
+    {
+        "question": "how and when to report problems that may o ccur?",
+        "options": [
+            "0. No",
+            "1. Yes"
+        ]
+    },
+    {
+        "question": "NA Patient not taking any drugs",
+        "options": []
+    },
+    {
+        "question": "M2020. Management of Oral Medications",
+        "options": []
+    },
+    {
+        "question": "Patient's current ability  to prepare and take all oral medications reliably and safely, including administration of the correct dosage",
+        "options": [
+            "0. Able to independently take the correct oral medication(s) and proper dosage(s) at the correct times.",
+            "1. Able to take medication(s) at the correct times if:",
+            "a. individual dosages are prepared in advance by another person; OR",
+            "b. another person develops a drug diary or chart.",
+            "2. Able to take medication(s) at the correct times if given reminders by another person at the appropriate times",
+            "3. Unable  to take medication unless administered by another person."
+        ]
+    },
+    {
+        "question": "NA No oral medications prescribed.",
+        "options": []
+    },
+    {
+        "question": "M2030. Management of Injectable Medications",
+        "options": []
+    },
+    {
+        "question": "Patient's current ability  to prepare and take all prescribed injectable medications reliably and safely, including administration of",
+        "options": [
+            "0. Able to independently take the correct medication(s) and proper dosage(s) at the correct times.",
+            "1. Able to take injectable medication(s) at the correct times if:",
+            "a. individual syringes are prepared in advance by another person; OR",
+            "b. another person develops a drug diary or chart.",
+            "2. Able to take medication(s) at the correct times if given reminders by another person based on the frequency of the",
+            "3. Unable  to take injectable medication unless administered by another person."
+        ]
+    },
+    {
+        "question": "NA No injectable  medications prescribed.",
+        "options": []
+    },
+    {
+        "question": "SOC/ROC",
+        "options": []
+    },
+    {
+        "question": "O0110. Special Treatments, Procedures, and Programs",
+        "options": []
+    },
+    {
+        "question": "Check all of the following treatments, procedures, and programs that apply on admission . a. On Admission",
+        "options": []
+    },
+    {
+        "question": "Check all that apply",
+        "options": []
+    },
+    {
+        "question": "Cancer Treatments",
+        "options": [
+            "A1. Chemotherapy",
+            "A2. IV",
+            "A3. Oral"
+        ]
+    },
+    {
+        "question": "A10.  Other",
+        "options": [
+            "B1. Radiation"
+        ]
+    },
+    {
+        "question": "Respiratory Therapies",
+        "options": [
+            "C1. Oxygen Therapy",
+            "C2. Continuous",
+            "C3. Intermittent",
+            "C4. High -concentration",
+            "D1. Suctioning",
+            "D2. Scheduled",
+            "D3. As needed",
+            "E1. Tracheostomy Care",
+            "F1. Invasive Mechanical Ventilator (ventilator or respirator)",
+            "G1. Non -invasive Mechanical Ventilator",
+            "G2. BiPAP",
+            "G3. CPAP"
+        ]
+    },
+    {
+        "question": "Other",
+        "options": [
+            "H1. IV Medications",
+            "H2. Vasoactive medications",
+            "H3. Antibiotics",
+            "H4. Anticoagulation"
+        ]
+    },
+    {
+        "question": "H10.  Other",
+        "options": [
+            "I1. Transfusions",
+            "J1. Dialysis",
+            "J2. Hemodialysis",
+            "J3. Peritoneal dialysis",
+            "O1. IV Access",
+            "O2. Peripheral",
+            "O3. Mid-line",
+            "O4. Central (e.g., PICC, tunneled, port)"
+        ]
+    },
+    {
+        "question": "None of the Above",
+        "options": [
+            "Z1. None of the Above"
+        ]
+    },
+    {
+        "question": "O0110. Special Treatments, Procedures, and Programs",
+        "options": []
+    },
+    {
+        "question": "Check all of  the following treatments, procedures, and programs that apply at discharge.  c. At Discharge",
+        "options": []
+    },
+    {
+        "question": "Check all that apply",
+        "options": []
+    },
+    {
+        "question": "Cancer Treatments",
+        "options": [
+            "A1. Chemotherapy"
+        ]
+    },
+    {
+        "question": "A2 IV",
+        "options": [
+            "A3. Oral"
+        ]
+    },
+    {
+        "question": "A10. Other",
+        "options": [
+            "B1. Radiation"
+        ]
+    },
+    {
+        "question": "Respiratory Therapies",
+        "options": [
+            "C1. Oxygen Therapy",
+            "C2. Continuous",
+            "C3. Intermittent",
+            "C4. High -concentration",
+            "D1. Suctioning",
+            "D2. Scheduled",
+            "D3. As needed",
+            "E1. Tracheostomy Care",
+            "F1. Invasive Mechanical Ventilator (ventilator or respirator)",
+            "G1. Non -invasive Mechanical Ventilator",
+            "G2. BiPAP",
+            "G3. CPAP"
+        ]
+    },
+    {
+        "question": "Other",
+        "options": [
+            "H1. IV Medications",
+            "H2. Vasoactive medications",
+            "H3. Antibiotics",
+            "H4. Anticoagulation"
+        ]
+    },
+    {
+        "question": "H10.  Other",
+        "options": [
+            "I1. Transfusions",
+            "J1. Dialysis",
+            "J2. Hemodialysis",
+            "J3. Peritoneal dialysis",
+            "O1. IV Access",
+            "O2. Peripheral",
+            "O3. Mid-line",
+            "O4. Central (e.g., PICC, tunneled, port)"
+        ]
+    },
+    {
+        "question": "None of the Above",
+        "options": [
+            "Z1. None of the Above"
+        ]
+    },
+    {
+        "question": "M1041. Influenza Vaccine Data Collection Period",
+        "options": []
+    },
+    {
+        "question": "Does this episode of care (SOC/ROC to Transfer/Discharge) include any dates on or between October 1 and March 31?",
+        "options": [
+            "0. No \u2192 Skip to M2401, Intervention Synopsis",
+            "1. Yes \u2192 Continue to M1046, Influenza Vaccine Received"
+        ]
+    },
+    {
+        "question": "Did the patient receive the influenza vaccine for this year\u2019s flu season?",
+        "options": [
+            "1. Yes; received from your agency during this episode of care  (SOC/ROC to Transfer/Discharge)",
+            "2. Yes; received from your agency during a prior episode of care (SOC/ROC to Transfer/Discharge)",
+            "3. Yes; received from another health care provider  (for example, physician, pharmacist)",
+            "4. No; patient offered and declined",
+            "5. No; patient assessed and determined to have medical contraindication(s)",
+            "6. No; not indicated \u2013 patient does not meet age/condition guidelines for influenza vaccine",
+            "7. No; inability to obtain vaccine due to declared shortage",
+            "8. No; patient did not receive  the vaccine due to reasons other than those listed in responses 4 -7."
+        ]
+    },
+    {
+        "question": "M2200. Therapy Need",
+        "options": []
+    },
+    {
+        "question": "In the home health plan of care for the Medicare payment episode for which this assessment will define a case mix group, what  is",
+        "options": []
+    },
+    {
+        "question": "Section Q  Participation in Assessment and Goal Setting",
+        "options": []
+    },
+    {
+        "question": "M2401. Intervention Synopsis",
+        "options": []
+    },
+    {
+        "question": "At the time of or at any time since the most recent SOC/ROC assessment, were the following interventions BOTH included in the",
+        "options": []
+    },
+    {
+        "question": "Plan/Intervention  No Yes Not",
+        "options": []
+    },
+    {
+        "question": "Applicable",
+        "options": [
+            "B. Falls prevention interventions   0  1  NA Every standardized, validated multi -factor fall risk",
+            "C. Depression intervention(s) such as",
+            "D. Intervention(s) to monitor and",
+            "E. Intervention(s) to prevent pressure ulcers"
+        ]
+    },
+    {
+        "question": "SOC/ROC assessment indicates the patient is not at risk of",
+        "options": [
+            "F. Pressure ulcer treatment based on"
+        ]
+    }
+]

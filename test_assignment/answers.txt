@@ -1,0 +1,21 @@
+personA: From which of the following Inpatient Facilities was the patient discharged within the past 14 days?,
+personB:Short-stay acute hospital (IPPS)
+personA: SOC/ROC assessment indicates the patient is not at risk of,
+personB:Pressure ulcer treatment based on
+personA: Reported or observed within the last 14 days.,
+personB:During the day and evening, but not constantly
+personA: How often do you feel lonely or isolated from those around you?,
+personB:Rarely
+personA: Current Payment Sources for Home Care,
+personB:Medicaid (traditional fee-for-service)
+personA: Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living?,
+personB:Yes, it has kept me from non -medical meetings, appointments, work, or from getting things that I need
+personA: Route of Transmission,
+personB:Health Information Exchange Organization
+personA: How often do you feel lonely or isolated from those around you?,
+personB:Rarely
+personA: How often do you feel lonely or isolated from those around you?,
+personB:Rarely
+personA: Ability to hear (with hearing aid or hearing appliances if normally used),
+personB:Minimal difficulty \u2013 difficulty in some environments (e.g., when person speaks softly,  or setting is noisy)
+    
