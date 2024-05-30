@@ -10,7 +10,7 @@ personA: Current Payment Sources for Home Care,
 personB:Medicaid (traditional fee-for-service)
 personA: Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living?,
 personB:Yes, it has kept me from non -medical meetings, appointments, work, or from getting things that I need
-personA: Route of Transmission,
+personA: How to define Lambda?,
 personB:Health Information Exchange Organization
 personA: How often do you feel lonely or isolated from those around you?,
 personB:Rarely
